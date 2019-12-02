@@ -1,6 +1,6 @@
-# coding-essentials
+# programming geek
 Simple, yet effective programs!
-sublime
+sublime,visual studio code
 ciphers,compilers
 
 codes
